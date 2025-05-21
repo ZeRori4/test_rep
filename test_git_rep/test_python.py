@@ -3,3 +3,6 @@ def print_hello():
 
 
 print_hello()
+
+
+print("test_msg")
